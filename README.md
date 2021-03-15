@@ -1,2 +1,2 @@
 # GymNation
-Gym Nation is provides fitness and diet plans
+Gym Nation provides fitness and diet plans
